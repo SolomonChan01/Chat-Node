@@ -2,12 +2,12 @@
 
 This is a single P2P node, using TCP to connect each Node
 
-## Installation
-
+## How To Run
 You would like to install this program package on both computer connected to the same wifi network. You should not be worry about your ip address because it will auto search it for you. You can change the port if need. 
 
 ```bash
-
+javac ChatClient1.java
+java ChatClient1
 ```
 
 ## Usage
